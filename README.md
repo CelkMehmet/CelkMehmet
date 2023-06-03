@@ -11,7 +11,7 @@
 
 <h3 align="left">Benimle bağlantı kurun:</h3 >
 <p hizalama="sol">
-<a href="https://linkedin.com/in/mehmet-celik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet-celik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/mehmet-çelik-11237886" target="blank"><img align="center" src="https://raw.githubusercontent .com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mehmet-çelik-11237886" height="30 " width="40" /></a>
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
